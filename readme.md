@@ -1,3 +1,7 @@
+# https://www.weibo.com
+
+This project is according to https://learnku.com/laravel/courses
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
