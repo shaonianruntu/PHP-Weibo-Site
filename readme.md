@@ -1,4 +1,4 @@
-# https://www.weibo.com
+# Reproduce "[Weibo](https://www.weibo.com)" website by PHP Laravel backend framework and Bootstrap frontend framework  
 
 This project is according to https://learnku.com/laravel/courses
 
